@@ -1,0 +1,1 @@
+ALTER TABLE `service_orders` ADD `reportedIssue` varchar(255);

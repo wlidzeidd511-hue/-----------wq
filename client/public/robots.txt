@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /owner-access-7x9k
+Disallow: /owner-vault
+Disallow: /dashboard
+Disallow: /admin-login
+Disallow: /admin
